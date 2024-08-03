@@ -1,0 +1,10 @@
+images
+swintextspotter
+image_statistics.ipynb
+refine-images.py
+__pycache__
+*.egg-info
+pretrained-weights
+output
+build
+*.so
